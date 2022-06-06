@@ -1,0 +1,21 @@
+div{
+    padding: 1rem;
+    margin: 45px;
+    color: black;
+}
+body{
+    /* box-sizing: border-box; */
+    background-color: gold;
+    text-align: center;
+}
+button:hover{
+    color: red;
+    background-color: brown;
+}
+#div1{
+    height: 350px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

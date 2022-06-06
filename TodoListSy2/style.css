@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    /* color: aliceblue; */
+    box-sizing: border-box;
+    text-align: center;
+}
+span{
+    color: aliceblue;
+    /* text-decoration: solid; */
+}
+div{
+    margin: auto;
+    padding: auto;
+    background-color: brown;
+    width: fit-content;
+}
+li{
+    color: white;
+    width: 150px;
+    /* margin-top: 25px; */
+    /* padding: 10px; */
+    display: flex;
+    justify-content: space-around;
+}
